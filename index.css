@@ -1,0 +1,74 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
+    font-size: 32;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-right: 600px;
+    padding-top: 350px;
+    
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 900;
+    font-weight: 900;
+    font-style: italic;
+    padding-left: 100px;
+    padding-right: 800px;
+}
+
+h3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+color: rgb(95, 94, 94);
+font-size: 18;
+padding-left: 100px;
+padding-right: 600px;
+font-weight: 100;
+
+
+
+}
+
+h4{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 16;
+    font-weight: 200;
+    font-style: italic;
+    padding-left: 100px;
+    padding-right: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+
+}
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 12;
+    font-weight: 100;
+    padding-left: 100px;
+    padding-right: 600px;
+    padding-top: 15px;
+
+
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(122, 122, 122);
+    font-size: 12;
+    font-weight: 100;
+    padding-left: 100px;
+    padding-right: 600px;
+    padding-top: 15px; 
+}
